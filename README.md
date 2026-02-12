@@ -13,7 +13,6 @@ Windows Cheat Sheets: Storage, Networking, Services & Troubleshooting. Guías r�
 
 ### Storage
 -  [01 — Disco “Sin conexión” por colisión de firmas (DiskPart: uniqueid + online)](guides/storage/01-disk-signature-collision-diskpart-uniqueid.md)
-  - Path: `guides/storage/01-disk-signature-collision-diskpart-uniqueid.md`
 ---
 
 ## Estructura del repositorio
