@@ -2,10 +2,10 @@
 Windows Cheat Sheets: Storage, Networking, Services & Troubleshooting. Guías rápidas de configuración y diagnóstico.
 
 ## Contenido
-- Guías
-- Estructura del repositorio
-- Convenciones
-- Cómo contribuir
+
+- [Guías](#guías)
+- [Estructura del repositorio](#estructura-del-repositorio)
+
 
 ---
 
